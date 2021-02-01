@@ -2,7 +2,7 @@
 
 Submitted by: Chizaram Chibueze
 
-Time spent: 45 minutes
+Time spent: 60 minutes
 
 ## User Stories
 
